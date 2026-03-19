@@ -16,9 +16,9 @@ Differentially expressed genes (DEGs) were obtained from a linear mixed model (`
 
 ```
 AIRC/
-├── GO_analysis.R                      # GO enrichment analysis (up and downregulated)
-├── GO_pathway_aggregation.R           # Cross-dataset pathway recurrence and heatmap
-├── YAP1_expression_barplot.R          # Single-gene expression visualization
+├── GO_analysis_3D_vs_2D.r                     # GO enrichment analysis (up and downregulated)
+├── Go_aggregation.r           # Cross-dataset pathway recurrence and heatmap
+├── Barplot_yap1.R         # Single-gene expression visualization
 └── README.md
 ```
 
